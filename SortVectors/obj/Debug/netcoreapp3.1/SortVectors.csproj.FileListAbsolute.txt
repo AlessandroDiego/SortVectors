@@ -11,3 +11,16 @@ C:\Users\alessandro.diego\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp
 C:\Users\alessandro.diego\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.dll
 C:\Users\alessandro.diego\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.pdb
 C:\Users\alessandro.diego\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.genruntimeconfig.cache
+C:\Users\endi.dyrmyshi\Documents\SortVectors\SortVectors\bin\Debug\netcoreapp3.1\SortVectors.exe
+C:\Users\endi.dyrmyshi\Documents\SortVectors\SortVectors\bin\Debug\netcoreapp3.1\SortVectors.deps.json
+C:\Users\endi.dyrmyshi\Documents\SortVectors\SortVectors\bin\Debug\netcoreapp3.1\SortVectors.runtimeconfig.json
+C:\Users\endi.dyrmyshi\Documents\SortVectors\SortVectors\bin\Debug\netcoreapp3.1\SortVectors.runtimeconfig.dev.json
+C:\Users\endi.dyrmyshi\Documents\SortVectors\SortVectors\bin\Debug\netcoreapp3.1\SortVectors.dll
+C:\Users\endi.dyrmyshi\Documents\SortVectors\SortVectors\bin\Debug\netcoreapp3.1\SortVectors.pdb
+C:\Users\endi.dyrmyshi\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.csprojAssemblyReference.cache
+C:\Users\endi.dyrmyshi\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.AssemblyInfoInputs.cache
+C:\Users\endi.dyrmyshi\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.AssemblyInfo.cs
+C:\Users\endi.dyrmyshi\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.csproj.CoreCompileInputs.cache
+C:\Users\endi.dyrmyshi\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.dll
+C:\Users\endi.dyrmyshi\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.pdb
+C:\Users\endi.dyrmyshi\Documents\SortVectors\SortVectors\obj\Debug\netcoreapp3.1\SortVectors.genruntimeconfig.cache
