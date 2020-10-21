@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alessandro.diego\\Documents\\Clone\\SortVectors\\SortVectors\\SortVectors.csproj": {}
+    "C:\\Users\\alessandro.diego\\Documents\\SortVectors\\SortVectors\\SortVectors\\SortVectors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alessandro.diego\\Documents\\Clone\\SortVectors\\SortVectors\\SortVectors.csproj": {
+    "C:\\Users\\alessandro.diego\\Documents\\SortVectors\\SortVectors\\SortVectors\\SortVectors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alessandro.diego\\Documents\\Clone\\SortVectors\\SortVectors\\SortVectors.csproj",
+        "projectUniqueName": "C:\\Users\\alessandro.diego\\Documents\\SortVectors\\SortVectors\\SortVectors\\SortVectors.csproj",
         "projectName": "SortVectors",
-        "projectPath": "C:\\Users\\alessandro.diego\\Documents\\Clone\\SortVectors\\SortVectors\\SortVectors.csproj",
+        "projectPath": "C:\\Users\\alessandro.diego\\Documents\\SortVectors\\SortVectors\\SortVectors\\SortVectors.csproj",
         "packagesPath": "C:\\Users\\alessandro.diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alessandro.diego\\Documents\\Clone\\SortVectors\\SortVectors\\obj\\",
+        "outputPath": "C:\\Users\\alessandro.diego\\Documents\\SortVectors\\SortVectors\\SortVectors\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
